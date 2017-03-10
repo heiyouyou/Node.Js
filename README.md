@@ -12,4 +12,4 @@ This is my project of NodeJs+Express+Mongodb+handlebars...<br>
 ### 二、项目的启动前提：
 1、Nodej.js环境、mongodb数据库的服务环境<br>
 2、需要在本地全局安装supervisor模块用来实时监听该项目下文件的改动：npm install -g supervisor，安装好后，cmd窗口在该项目路径下直接运行npm start，就可以启动项目了。成功启动如下：<br>
-![npm start](https://github.com/heiyouyou/myblogs/blob/master/images/cmd.png)[npm](https://www.npmjs.com/)
+![npm start](https://github.com/heiyouyou/myblogs/blob/master/images/cmd.png)
