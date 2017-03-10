@@ -46,11 +46,11 @@ app.use(express.static(path.join(__dirname, 'public')));
     secret：用来对session数据进行加密的字符串(随意指定).这个属性值为必须指定的属性。
     maxAge：cookie过期时间，单位毫秒。
 */
-app.use(cookieSession({
-  name:'userdata',
-  secret:'1234567890ABCEDFJHIJKLQWERTYZ',
-  maxAge:1000*60
-}));
+// app.use(cookieSession({
+//   name:'userdata',
+//   secret:'1234567890ABCEDFJHIJKLQWERTYZ',
+//   maxAge:1000*60
+// }));
 
 app.use('/', index);
 app.use('/users', users);
