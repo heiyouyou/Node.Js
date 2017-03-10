@@ -1,0 +1,57 @@
+<link rel="stylesheet" href="/css/content.css" />
+{{> header}}
+
+<div class="clearfix mt64 w720">
+    <div id="posts" class="posts-expand">
+        <header class="post-header ">
+            <h1 class="post-title tc mb10" itemprop="name headline">
+               {{title}}
+            </h1>
+            <div class="post-meta tc">
+                <span class="post-time">
+        发表于
+        <time itemprop="dateCreated" datetime="2016-12-12T21:17:59+08:00" content="2016-12-12">
+            {{formatDate ctime 'yyyy年/MM月/dd日'}}
+        </time>
+        </span>
+            <span class="post-category">
+                &nbsp; | &nbsp; 分类于
+                <span itemprop="about">
+                    <a href="#" itemprop="url" rel="index">
+                        <span itemprop="name">{{cid}}</span>
+                    </a>
+                </span>
+            </span>
+            <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="#" itemprop="discussionUrl">
+                    <span class="post-comments-count ds-thread-count" >{{tags}}</span>
+                </a>
+            </span>
+            &nbsp; | &nbsp;
+            <a href="javascript:void(0);" data-opid="{{_id}}" id="delete">删除文章</a>
+        </div>
+    </header>
+    <div class="post-body mt45">
+        {{{content}}}
+     </div>
+     <div><a href="{{link}}" target="_blank">来源这里&gt;&gt;</a></div>
+    </div>
+</div>
+{{> footer}}
+<script>
+    $(function(){
+        $("#delete").on('click',function(){
+            var id = $(this).data('opid');
+            $.ajax({
+                url:'/delete/'+id,
+                success:function(data){
+                    if(data.code==200){
+                        alert(data.msg);
+                        window.location.href='/';
+                    }
+                }
+            });
+        });
+    });
+</script>

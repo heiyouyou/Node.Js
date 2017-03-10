@@ -1,0 +1,1584 @@
+2017-02-14 16:17:55
+undefined
+Failed to lookup view "index" in views directory "F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\views"
+Error: Failed to lookup view "index" in views directory "F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\views"
+    at EventEmitter.render (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\response.js:960:7)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:7
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+2017-02-14 16:21:46
+undefined
+Cannot set property 'user' of undefined
+TypeError: Cannot set property 'user' of undefined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:20
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 16:23:29
+undefined
+Cannot set property 'user' of undefined
+TypeError: Cannot set property 'user' of undefined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:20
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 16:25:17
+undefined
+Cannot set property 'user' of undefined
+TypeError: Cannot set property 'user' of undefined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:20
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 16:32:10
+undefined
+Cannot set property 'user' of undefined
+TypeError: Cannot set property 'user' of undefined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:20
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 16:32:11
+undefined
+Cannot set property 'user' of undefined
+TypeError: Cannot set property 'user' of undefined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:20
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 16:34:44
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 16:34:45
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+2017-02-14 17:35:43
+undefined
+Content is not defined
+ReferenceError: Content is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:23:3
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 17:35:44
+undefined
+Content is not defined
+ReferenceError: Content is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:23:3
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 17:36:07
+undefined
+Missing helper: 'format'
+Error
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars\exception.js:26:23)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars\base.js:3:17)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars.runtime.js:3:12)
+    at Module._compile (module.js:409:26)
+2017-02-14 17:39:16
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 17:40:54
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:26:33
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:26:51
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:27:29
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:27:58
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:33:22
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:35:00
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:35:18
+413
+request entity too large
+Error: request entity too large
+    at readStream (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:196:17)
+    at getRawBody (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:106:12)
+    at read (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\read.js:76:3)
+    at urlencodedParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\urlencoded.js:115:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at logger (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\morgan\index.js:144:5)
+2017-02-14 18:35:36
+413
+request entity too large
+Error: request entity too large
+    at readStream (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:196:17)
+    at getRawBody (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:106:12)
+    at read (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\read.js:76:3)
+    at urlencodedParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\urlencoded.js:115:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at logger (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\morgan\index.js:144:5)
+2017-02-14 18:35:40
+413
+request entity too large
+Error: request entity too large
+    at readStream (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:196:17)
+    at getRawBody (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:106:12)
+    at read (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\read.js:76:3)
+    at urlencodedParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\urlencoded.js:115:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at logger (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\morgan\index.js:144:5)
+2017-02-14 18:35:51
+413
+request entity too large
+Error: request entity too large
+    at readStream (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:196:17)
+    at getRawBody (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:106:12)
+    at read (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\read.js:76:3)
+    at urlencodedParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\urlencoded.js:115:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at logger (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\morgan\index.js:144:5)
+2017-02-14 18:37:07
+413
+request entity too large
+Error: request entity too large
+    at readStream (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:196:17)
+    at getRawBody (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:106:12)
+    at read (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\read.js:76:3)
+    at urlencodedParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\urlencoded.js:115:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at logger (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\morgan\index.js:144:5)
+2017-02-14 18:37:20
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:59:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:37:27
+413
+request entity too large
+Error: request entity too large
+    at readStream (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:196:17)
+    at getRawBody (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\node_modules\raw-body\index.js:106:12)
+    at read (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\read.js:76:3)
+    at urlencodedParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\urlencoded.js:115:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at logger (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\morgan\index.js:144:5)
+2017-02-14 18:45:37
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:45:39
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-14 18:46:43
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 09:56:35
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 09:58:41
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 10:05:15
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 10:05:18
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 10:05:22
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 10:09:52
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 10:35:49
+undefined
+Missing helper: 'format'
+Error
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars\exception.js:26:23)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars\base.js:3:17)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars.runtime.js:3:12)
+    at Module._compile (module.js:409:26)
+2017-02-15 10:36:19
+undefined
+Missing helper: 'formatTime'
+Error
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars\exception.js:26:23)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars\base.js:3:17)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express3-handlebars\node_modules\handlebars\dist\cjs\handlebars.runtime.js:3:12)
+    at Module._compile (module.js:409:26)
+2017-02-15 10:39:17
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 11:34:11
+undefined
+nContents.findOneUpdate is not a function
+TypeError: nContents.findOneUpdate is not a function
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:62:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at param (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:349:14)
+    at param (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+2017-02-15 11:57:32
+undefined
+nContent is not defined
+ReferenceError: nContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:69:3
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at param (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:349:14)
+    at param (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+2017-02-15 11:57:49
+undefined
+nContent is not defined
+ReferenceError: nContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:69:3
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at param (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:349:14)
+    at param (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+2017-02-15 12:07:33
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 15:54:38
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:16:26
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:16:28
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:16
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:17
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:22
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:26
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:28
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:56
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-15 18:42:58
+undefined
+queryContent is not defined
+ReferenceError: queryContent is not defined
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:57:15
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 12:19:54
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 12:31:25
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 14:08:54
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 14:09:33
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 14:09:34
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 14:49:17
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 14:50:36
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 16:06:05
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 16:09:23
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-16 18:32:40
+undefined
+Failed to lookup view "partilas/contentTemplate" in views directory "F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\views"
+Error: Failed to lookup view "partilas/contentTemplate" in views directory "F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\views"
+    at EventEmitter.render (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\response.js:960:7)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:90:15
+    at Query.<anonymous> (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\mongoose\lib\model.js:3420:16)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\mongoose\node_modules\kareem\index.js:273:21
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\mongoose\node_modules\kareem\index.js:127:16
+    at nextTickCallbackWith0Args (node.js:420:9)
+    at process._tickCallback (node.js:349:13)
+2017-02-17 09:49:16
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-17 13:43:49
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-17 15:21:18
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-17 15:32:49
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-17 18:05:15
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-18 09:45:38
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-18 17:42:34
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-20 17:53:22
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-20 17:53:27
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 11:01:46
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 11:02:48
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 11:02:50
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 11:24:09
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 12:09:47
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 12:19:06
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-21 17:43:12
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-02-22 14:09:49
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-03-07 16:46:36
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-03-07 16:46:37
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)
+2017-03-07 16:46:38
+404
+Not Found
+Error: Not Found
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\app.js:61:13
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:618:15
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:256:14)
+    at Function.handle (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:176:3)
+    at router (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:46:12)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:312:13)
+    at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:330:12)
+    at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\cookie-session\index.js:128:5)

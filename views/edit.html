@@ -1,0 +1,86 @@
+
+{{> header}}
+
+<div class="w720 mt64" style="padding-bottom:320px">
+   <input type="hidden" value="{{_id}}" name="id">
+    <p>标题：<input type="text" name="title" autofocus style="width:640px;height:40px;" value="{{title}}"/></p>
+    <p class="mt20">标签：<input type="text" name="tags" style="width:640px;height:40px;" value="{{tags}}"/></p>
+    <p class="mt20">分类：<input type="text" name="cid" style="width:640px;height:40px;" value="{{cid}}"/></p>
+    <p class="mt20">链接：<input type="text" name="link" style="width:640px;height:40px;" value="{{link}}"/></p>
+    <p class="mt20">内容：<textarea id="editor" style="height:260px;">{{{content}}}</textarea></p>
+    <p class="mt20"><input type="button" value="更新文章" id="updateBlog" style="cursor:pointer;padding:0 4px;"></p>
+</div>
+{{> footer}}
+<script type="text/javascript" charset="utf-8" src="/js/editor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/editor/ueditor.all.min.js"> </script>
+<script>
+    $(function(){
+        //实例化编辑器
+        //建议使用工厂方法getEditor创建和引用编辑器实例，如果在某个闭包下引用该编辑器，直接调用UE.getEditor('editor')就能拿到相关的实例
+        var ue = UE.getEditor('editor',{
+            // 是否自动长高,默认true
+            autoHeightEnabled:false
+
+        });
+        // 内容文章更新
+        var wzyBlog = {
+            init:function(){
+                var This = this;
+                $("#updateBlog").on('click',function(){
+                    This.update();
+                });
+            },
+            update:function(){
+                var title = $("input[name='title']").val();
+                var tags = $("input[name='tags']").val();
+                var cid = $("input[name='cid']").val();
+                var link = $("input[name='link']").val();
+                // 使用富文本编辑器特有的方法获取编辑器中的文本内容
+                var ctxt = getEditorHTML('editor');
+                // 使用富文本编辑器特有的方法获取编辑器中的html内容
+                var content = getEditorHTML('editor');
+                // 非空判断
+                if(!title){
+                    alert("标题不能为空！");
+                    $("input[name='title']").focus();
+                    return;
+                }
+                if(!tags){
+                    alert("标签不能为空！");
+                    $("input[name='tags']").focus();
+                    return;
+                }
+                if(!cid){
+                    alert("分类不能为空！");
+                    $("input[name='cid']").focus();
+                    return;
+                }
+                if(!link){
+                    alert("链接不能为空！");
+                    $("input[name='link']").focus();
+                    return;
+                }
+                if(!content){
+                    alert("内容不能为空！");
+                    return;
+                };
+                // 提交的参数
+                var params = {title:title,tags:tags,cid:cid,link:link,content:content};
+                $.ajax({
+                    url:'/update/'+$("input[name='id']").val(),
+                    type:'post',
+                    data:params,
+                    success:function(data){
+                        // 后期可以使用美化的提示框
+                        if(data.code==200){
+                            alert(data.message);
+                        }else{
+                            alert(data.message);
+                        }
+                    }
+                })                
+            }
+        };
+        wzyBlog.init();
+    });
+</script>

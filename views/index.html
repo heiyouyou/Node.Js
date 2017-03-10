@@ -1,0 +1,130 @@
+{{> header}}
+<div class="clearfix"></div>
+<input class="ml10" type="text" id="keyword">
+分类：
+<select name="type" id="typeOpts">
+    <option value="0">请选择</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+</select>
+<input type="button" id="search" onclick="wzyContent.search()" value="搜索" style="cursor:pointer;"/>
+<a href="/add" target="_blank">添加文章</a>
+文章总数:<span class="titemcount" style="color:red;font-weight:bold;">{{totalCount}}</span>
+<!--内容区域-->
+<div class="wrapbox">
+    <div class="w700 mauto">
+            <div class="itembox" id="itembox">
+                {{> contentTemplate}}    
+            </div>
+            <div class="loadmore" onclick="wzyContent.load()"><span class="text">加载更多</span>【总共<span id="itemcount" class="itemcount" data-itemcount="{{totalCount}}">{{totalCount}}</span>条】...</div>
+    </div>
+</div>
+<!--end 内容区域-->
+{{> footer}}
+<script>
+    //获取当前窗口高度加滚动条的高度的和
+    function getClientHeight(){
+        //  兼容拿到当前可视窗口的高度
+        var clientH = window.innerHeight || document.documentElement.clientHeight;
+        //  拿到滚动条的滚动距离
+        var scrollT = document.documentElement.scrollTop || document.body.scrollTop;
+        return clientH + scrollT;
+    }
+    var wzyContent = {
+        pageSize:3,//每页的数据量
+        mark:true,//滚动分页的锁
+        init:function(){//初始化函数
+            var This = this;
+            // 滚动分页查询
+            $(window).scroll(function(){
+                // var dHeight = document.body.clientHeight
+                var dHeight = $(document).innerHeight();
+                var cHeight = getClientHeight();
+                if(cHeight+3>=dHeight&&This.mark){
+                    This.load(function(count){
+                        console.log("总数："+count);
+                        $("#itemcount").data("itemcount",count).text(count);
+                        $(".titemcount").text(count);
+                    });
+                }
+            });
+        },
+        // 搜索查询业务
+        search:function(){
+            // 每次查询都要进行清空数据
+            $("#itembox").empty();
+            // 每次点击查询显示加载更多
+            $(".loadmore").find("span.text").html("加载更多").end().fadeIn();
+            // 重新更新总数显示
+            this.load(function(count){
+                console.log("总数为"+count);
+                $("#itemcount").data("itemcount",count).text(count);
+                $(".titemcount").text(count);
+            });
+        },
+        // 加载数据
+        load:function(callback){
+            var This = this;
+            // 当当前次滚动分页的数据加载中，进行锁住
+            This.mark = false;
+            // 获取下一页的第一条数据的索引
+            var pageNo = $(".item").length;
+            // 获取关键字查询参数
+            var keyword = $("#keyword").val();
+            // 获取分类参数
+            var typeOpts = $("#typeOpts").val();
+            console.log("分类："+typeOpts);
+            // 获取总数据量
+            var itemcount = $("#itemcount").data("itemcount");
+            // 当数据已经等于总数时,阻止继续的ajax请求
+            console.log(pageNo+"==="+itemcount);
+            // 当加载的数据等于总数并且总数不等于0时
+            if(itemcount == pageNo&&itemcount!=0){
+                $(".loadmore").removeAttr("onclick").find("span.text").html("数据加载完毕").end().fadeOut(1000);
+                return;
+            };
+            // 防止重复性的点击
+            $(".loadmore").removeAttr("onclick");
+            // ajax请求数据
+            $.ajax({
+                url:"/search",
+                type:"post",
+                data:{type:typeOpts,keyword:keyword,pageNo:pageNo,pageSize:This.pageSize},
+                success:function(data){ 
+                    // 当当前次滚动分页的数据加载完毕，打开锁，继续下一次滚动分页请求
+                    This.mark = true;
+                    // 注意经过模板渲染的页面数据，即使没有数据，也不是空字符串
+                    if(data){
+                        // 将获取过来的html页面数据进行插入
+                        $("#itembox").append(data);
+                        // 重新获取总数
+                        var sitemcount = $("#itembox").children().last().data("itemcount");
+                        // 判断是否有数据返回过来
+                        var len = $("#itembox").children().length;
+                        // 没有数据时，隐藏加载更多，并且提示没有数据
+                        if(len==0){
+                            // 查询数据为空时，进行滚动分页加载数据屏蔽
+                            This.mark = false;
+                            $(".loadmore").hide();
+                            $("#itembox").html("<h2 style='text-align:center;padding:10px 0;'>没有找到相关数据...</h2>");
+                            sitemcount = 0;
+                        }
+                        // 回调业务函数
+                        callback&&callback(sitemcount);
+                        // 当当前请求的数据返回，重新绑定点击事件
+                        $(".loadmore").attr("onclick","wzyContent.load()");
+                    };
+                }
+            });
+        }
+    };
+    wzyContent.init();
+</script>
