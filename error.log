@@ -5,7 +5,7 @@ Error: Failed to lookup view "index" in views directory "F:\NodeJS\NodeJS系统�
     at EventEmitter.render (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\application.js:579:17)
     at ServerResponse.render (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\response.js:960:7)
     at F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\routes\index.js:6:7
-    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
+    at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:25)
     at next (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:131:13)
     at Route.dispatch (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\route.js:112:3)
     at Layer.handle [as handle_request] (F:\NodeJS\NodeJS系统课程\NodeJS练习\lesson9\node_modules\express\lib\router\layer.js:95:5)
